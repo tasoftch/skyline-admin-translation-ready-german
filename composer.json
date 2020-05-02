@@ -1,0 +1,13 @@
+{
+  "name": "skyline-admin/translation-ready-german",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Thomas Abplanalp",
+      "email": "info@tasoft.ch"
+    }
+  ],
+  "require": {
+    "skyline/translation": "^0.8"
+  }
+}
